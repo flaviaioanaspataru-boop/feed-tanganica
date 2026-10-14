@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Etsy Store Feed</title>
+    <link>https://www.etsy.com</link>
+    <description>Cele 4 produse din magazinul meu Etsy</description>
+    
+    <!-- PRODUSUL 1: Garfield -->
+    <item>
+      <g:id>etsy_prod_001</g:id>
+      <g:title>Garfield Printable Certificate, Letter to a Friend | Instant Download Digital Envelope</g:title>
+      <g:description>Bring some sarcastic joy and cozy vibes with this Ultimate Printable Garfield Stationery Set! Perfect for stationery lovers, 90s nostalgia fans, or anyone who believes that Mondays are the worst and lasagna is life. This digital download includes an Official Certificate of Awesomeness, Pre-written Letter to a Friend, and a DIY Printable Envelope Template. Sizes included: Standard US Letter (8.5 x 11 inches) and A4 Size.</g:description>
+      <g:link>https://www.etsy.com/listing/4595200326/garfield-printable-certificate-letter-to</g:link>
+      <g:image_link>https://i.etsystatic.com/67981384/r/il/650600/8723927547/il_fullxfull.8723927547_lal9.jpg</g:image_link>
+      <g:additional_image_link>https://i.etsystatic.com/67981384/r/il/da4f2c/8723988359/il_fullxfull.8723988359_1yoo.jpg</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>4.90 EUR</g:price>
+    </item>
+
+    <!-- PRODUSUL 2: Project Moon -->
+    <item>
+      <g:id>etsy_prod_002</g:id>
+      <g:title>Project Moon Lobotomy Corporation Printable Fan Kit Printable Instant Download</g:title>
+      <g:description>Welcome Agent to the Information Team Archives. Elevate your Project Moon / Lobotomy Corporation collection or gift a fellow Manager with this high-resolution, printable fan correspondence kit! Designed with thematic atmospheric details, this digital set includes a Printable Envelope Template, Official Fan Letter, and a Fillable Agent Certificate of Merit. Format: Instant Digital Download (PDF and High-Res JPGs) on A4 size.</g:description>
+      <g:link>https://www.etsy.com/listing/4595167730/project-moon-lobotomy-corporation</g:link>
+      <g:image_link>https://i.etsystatic.com/67981384/r/il/be47dc/8675822376/il_fullxfull.8675822376_pj3k.jpg</g:image_link>
+      <g:additional_image_link>https://i.etsystatic.com/67981384/r/il/5012b3/8675902550/il_fullxfull.8675902550_39xb.jpg</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>4.90 EUR</g:price>
+    </item>
+
+    <!-- PRODUSUL 3: Star Guardian -->
+    <item>
+      <g:id>etsy_prod_003</g:id>
+      <g:title>Star Guardian Letter and Certificate Printable Set, Magical Envelope Template</g:title>
+      <g:description>Shine Bright with the Ultimate Star Guardian Letter and Certificate Kit! Bring a magic spark to any celebration! This printable Star Guardian digital bundle is perfect for birthdays, surprises, or a magical gift for any anime and fantasy lover. Included: Printable Envelope Template, Front Letter Page, Back Letter Page, and an Official Star Guardian Certificate (A4 Size).</g:description>
+      <g:link>https://www.etsy.com/listing/4595095100/star-guardian-letter-and-certificate</g:link>
+      <g:image_link>https://i.etsystatic.com/67981384/r/il/78b919/8723125997/il_fullxfull.8723125997_67zh.jpg</g:image_link>
+      <g:additional_image_link>https://i.etsystatic.com/67981384/r/il/564bd6/8675302800/il_fullxfull.8675302800_ilkw.jpg</g:additional_image_link>
+      <g:additional_image_link>https://i.etsystatic.com/67981384/r/il/c67e9c/8675302816/il_fullxfull.8675302816_4t1i.jpg</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>4.90 EUR</g:price>
+    </item>
+
+    <!-- PRODUSUL 4: Micul Print -->
+    <item>
+      <g:id>etsy_prod_004</g:id>
+      <g:title>Printable love letter from Little Prince. Gift. Wedding. Proposal.</g:title>
+      <g:description>Instant Digital Love Letter - The Little Prince Edition. A deep, thoughtful, and romantic letter composed to touch the soul of your beloved. Inspired by the pure, intense, and timeless love of The Little Prince where every star in the sky and every flower in the world becomes a gentle reminder of the one you love. Perfect for a wedding day, anniversary, or a special moment.</g:description>
+      <g:link>https://www.etsy.com/listing/4593232485/love-letter-from-little-prince-proposal</g:link>
+      <g:image_link>https://i.etsystatic.com/67981384/r/il/22406d/8708096963/il_fullxfull.8708096963_jirv.jpg</g:image_link>
+      <g:additional_image_link>https://i.etsystatic.com/67981384/r/il/8f8be4/8660264878/il_1588xN.8660264878_ceel.jpg</g:additional_image_link>
+      <g:additional_image_link>https://i.etsystatic.com/67981384/r/il/a88858/8708421289/il_1588xN.8708421289_8byv.jpg</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>5.90 EUR</g:price>
+    </item>
+
+  </channel>
+</rss>
